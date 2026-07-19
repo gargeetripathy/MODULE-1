@@ -2,7 +2,7 @@
 ## Introduction to Linux
 # Linux Installation:
 # •	Installing Linux in a Virtual Machine (Virtual Box / VMware)
-1.Download the Linux ISO file (e.g., Ubuntu).
+1.Download the Linux ISO file (e.g., Ubuntu).  
 2.Install VirtualBox or VMware on your computer.
 3.Open the software and click New to create a virtual machine.
 4.Enter the virtual machine name and select Linux as the operating system.
