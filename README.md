@@ -132,3 +132,50 @@ b)Double quotes (" ") – Preserve the text but still allow variables and comman
 3. Escaping Characters
 a)Escaping is used to give special characters their literal meaning.
 b)It is done using the backslash (\) before the special character.
+## Introduction to BASH & Linux Command Line Essentials:
+# BASH Scripting
+# 1. Writing Simple Shell Scripts
+A shell script is a text file that contains Linux commands. It helps automate tasks, so the same commands do not have to be typed again and again.
+a)Variables
+i)Variables are used to store values like names, numbers, or paths.
+ii)Their values can be used multiple times in a script.
+iii)Example uses: storing a user's name, age, or file name.
+b)Printing Text
+i)Text is displayed on the screen to show messages or results.
+ii)This makes the script easier to understand for the user.
+c)Basic Conditionals
+i)Conditionals help the script make decisions.
+ii)The script checks a condition and performs different actions based on whether it is true or false.
+iii)Example: checking if a file exists or if a number is greater than another number.
+# 2. Using man and help for Linux Commands
+Linux provides built-in documentation to learn about commands.
+a)man (Manual)
+i)Displays detailed information about a command.
+ii)It explains the command, options, and usage.
+iii)It is useful when you want complete documentation.
+b)help
+Shows quick help for shell built-in commands.
+i)It provides a short explanation and basic usage.
+ii)It is faster than the manual page for built-in commands.
+3. Working with Text-Processing Tools
+These tools are used to search, edit, and process text files.
+a)grep
+i)Searches for specific words or patterns in a file.
+ii)It helps find matching lines quickly.
+b)awk
+i)Processes and formats text data.
+ii)It is useful for extracting specific columns and generating reports.
+c)sed
+i)Edits text without opening the file.
+ii)It can search, replace, delete, or modify text automatically.
+4. File Compression
+File compression reduces file size and makes files easier to store or transfer.
+a)tar
+i)Combines multiple files and folders into a single archive.
+ii)It does not compress files by itself.
+b)gzip
+i)Compresses files to reduce their size.
+ii)It is often used together with tar.
+c)zip
+i)Compresses one or more files into a ZIP archive.
+ii)It is commonly used because it works on both Linux and Windows.
