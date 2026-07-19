@@ -3,14 +3,14 @@
 # Linux Installation:
 # •	Installing Linux in a Virtual Machine (Virtual Box / VMware)
 1.Download the Linux ISO file (e.g., Ubuntu).  
-2.Install VirtualBox or VMware on your computer.
-3.Open the software and click New to create a virtual machine.
-4.Enter the virtual machine name and select Linux as the operating system.
-5.Allocate RAM (minimum 2 GB, recommended 4 GB or more).
-6.Create a virtual hard disk (20–25 GB or more).
-7.Attach the Linux ISO file as the startup/boot disk.
-8.Start the virtual machine and choose Install Linux.
-9.Select language, keyboard, and installation options.
+2.Install VirtualBox or VMware on your computer.  
+3.Open the software and click New to create a virtual machine.  
+4.Enter the virtual machine name and select Linux as the operating system.  
+5.Allocate RAM (minimum 2 GB, recommended 4 GB or more).  
+6.Create a virtual hard disk (20–25 GB or more).  
+7.Attach the Linux ISO file as the startup/boot disk.  
+8.Start the virtual machine and choose Install Linux.  
+9.Select language, keyboard, and installation options.  
 10.Create a user account by entering your username and password.
 11.Wait for the installation to complete.
 12.Restart the virtual machine and remove the ISO file if prompted.
