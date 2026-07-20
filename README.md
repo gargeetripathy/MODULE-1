@@ -1,4 +1,4 @@
-#### Module 1: Fundamentals of Unix/Linux & BASH Essentials
+.#### Module 1: Fundamentals of Unix/Linux & BASH Essentials
 ## Introduction to Linux
 # Linux Installation:
 # •	Installing Linux in a Virtual Machine (Virtual Box / VMware)
